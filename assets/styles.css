@@ -123,7 +123,8 @@ strong { font-weight: 600; }
 .thesis-list { list-style: none; padding: 0; margin: 0; }
 .thesis-list .publication { border-bottom: 0; padding-block: 0; }
 .thesis h3 { font-size: 1.45rem; line-height: 1.4; margin-bottom: .8rem; }
-.publication-links { display: flex; flex-wrap: wrap; gap: .5rem 1rem; align-items: baseline; font-size: .8rem; }
+.publication-links { display: flex; flex-wrap: wrap; gap: .35rem 1.5rem; align-items: baseline; font-size: .8rem; }
+.journal-citation { font-size: .9rem; }
 .cv-document iframe { display: block; width: 100%; height: 75vh; min-height: 420px; border: 1px solid var(--line); background: #fff; }
 .notes-list { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.5rem; margin-top: 2rem; }
 .notes-entry { min-width: 0; }
